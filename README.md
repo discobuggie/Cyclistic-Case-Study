@@ -1,4 +1,3 @@
-# demo-repo
 # Introduction
 This is an analysis for case study 1 from the Google Data Analytics Certificate (Cyclistic).  I will perform many real-world tasks of a junior data analyst at a fictional company, Cyclistic. To address key business tasks, I will follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act
 # Shortcuts
@@ -46,12 +45,12 @@ For combining and cleaning the various datasets, BigQuery is the chosen platform
 
 <h3>Data Combination</h3>
 
-SQL Query: (insert link).  
+SQL Query: [Data Combining](https://github.com/discobuggie/Cyclistic-Case-Study/blob/main/1.%20Data_combining.sql).  
 A dataset named '2022_tripdata' holds 12 CSV files, each uploaded as a separate table. Additionally, a table called "combined_data" is generated, consolidating 5,667,717 rows of data spanning the entire year.
 
 <h3>Data Exploration</h3>
 
-SQL Query: (insert link).  
+SQL Query: [Data Exploration](https://github.com/discobuggie/Cyclistic-Case-Study/blob/main/2.%20Data_exploration.sql).  
 Reviewing the data to identify and understand any inconsistencies present.
 
 Findings and Observations:
@@ -86,7 +85,7 @@ Findings and Observations:
 
 <h3>Data Cleaning</h3>
 
-SQL Query: (insert link here)
+SQL Query: [Data Cleaning](https://github.com/discobuggie/Cyclistic-Case-Study/blob/main/3.%20Data_cleaning.sql).
 
 The data cleaning process involves the following steps:
 
@@ -97,7 +96,7 @@ The data cleaning process involves the following steps:
 
 ## Analyze and Share
 
-SQL Query: (insert link here)  
+SQL Query: [Data Analysis](https://github.com/discobuggie/Cyclistic-Case-Study/blob/main/4.%20Data_analysis.sql).  
 Data Visualization: (insert tableau here)
 
 The data has been appropriately stored and prepared for analysis. Multiple relevant tables were queried, and the findings were visualized using Tableau. The primary analysis question is to understand the differences in how annual members and casual riders utilize Cyclistic bikes.

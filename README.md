@@ -3,7 +3,7 @@ This is an analysis for case study 1 from the Google Data Analytics Certificate 
 # Shortcuts
 Data Source: [Divvy](https://divvy-tripdata.s3.amazonaws.com/index.html) 
 
-Data Visualization: (tableau link here)
+Data Visualization: Tableau
 # Background 
 <h3> About Cyclistic </h3> 
 

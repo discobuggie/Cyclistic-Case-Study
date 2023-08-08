@@ -97,7 +97,6 @@ The data cleaning process involves the following steps:
 ## Analyze and Share
 
 SQL Query: [Data Analysis](https://github.com/discobuggie/Cyclistic-Case-Study/blob/main/4.%20Data_analysis.sql).  
-Data Visualization: (insert tableau here)
 
 The data has been appropriately stored and prepared for analysis. Multiple relevant tables were queried, and the findings were visualized using Tableau. The primary analysis question is to understand the differences in how annual members and casual riders utilize Cyclistic bikes.
 
